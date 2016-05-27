@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>IQKeyboardManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-IQKeyboardManagerDemo.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,12 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2021EFF3CC0EBAC3E0B5AF409A14D855</key>
+		<key>315FF0DD3FC80E9D5EB7E9C7A6E4E563</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D38407B87AE74D4396031B46DD545D91</key>
+		<key>55DBDD8B7D446F1D618F303A9FB53209</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C57222CA5F717B994AB5F84CF7C59F9B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
